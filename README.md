@@ -23,7 +23,7 @@ To run the app locally, follow these steps:
 
 1. Clone this repository and navigate into the project
    ```sh
-   git clone https://github.com/nklmantey/convene.git
+   git clone https://github.com/umerabidin/convene.git
    cd convene
    ```
 2. Install necessary packages and dependencies
